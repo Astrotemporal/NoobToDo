@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fill">0dp</dimen>
+    <dimen name="addTaskMargin">10dp</dimen>
+    <dimen name="dividerMargin">15dp</dimen>
+</resources>
